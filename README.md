@@ -15,9 +15,9 @@
 🚀 **Frontend Web Developer | React.js Specialist**  
 🌱 4 years of experience building **scalable, responsive, and user-friendly** web apps  
 💡 Strong foundation in **ReactJS, JS, OOPS, DBMS, Web Applications and Computer Networks**  
-🗺️ I’m currently working on **Shoporia Ecommerce Website**
 🔭 Currently exploring **Next.js, Node.js, and advanced frontend performance & enhancements**  
 🤝 Open to **collaborations** on frontend & fullstack projects  
+🗺️ I’m currently working on **Shoporia Ecommerce Website**
 
 ---
 
@@ -65,6 +65,8 @@
 💻 Deployment Management – Oversaw POS terminal software updates, ensuring smooth rollouts and rapid issue resolution post-deployment.
 
 ---
+
+## 📈 GitHub Stats  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamsayzz&show_icons=true&locale=en&layout=compact" alt="gowthamsayzz" /></p>
 
