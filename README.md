@@ -66,16 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowthamsayzz&show_icons=true&locale=en&layout=compact" alt="gowthamsayzz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthamsayzz&show_icons=true&locale=en" alt="gowthamsayzz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamsayzz&" alt="gowthamsayzz" /></p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
