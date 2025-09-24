@@ -44,28 +44,6 @@
 
 ---
 
-## 🚀 Projects Highlight  
-
-🛠️ Full-Stack Development – Designed and developed robust web-based applications using ASP.NET, C#, JavaScript, and SQL, delivering both front-end and back-end functionality for retail operations.
-
-🔗 API Development – Built and integrated RESTful APIs, ensuring smooth data flow between systems, with Swagger and Postman for testing and documentation.
-
-📌 End-to-End SDLC – Contributed across all phases of the Software Development Life Cycle (SDLC) including requirements gathering, design, coding, testing, and deployment.
-
-🎨 UI Enhancements – Improved user experience and data integrity by implementing JavaScript-based validations and refining front-end workflows.
-
-✅ Testing Leadership – Drove the Software Testing Life Cycle (STLC), maintained detailed documentation, and enforced compliance with quality standards.
-
-⚡ API Testing – Performed functional and load testing with Postman, ensuring high system reliability and performance under real-world workloads.
-
-🏪 POS System Analysis – Conducted in-depth analysis of Point of Sale (POS) systems, identified recurring issues, created detailed reports, and recommended fixes to improve operational efficiency.
-
-🤖 Automation – Developed automation scripts using PowerShell, reducing system downtime and improving resolution times for critical issues.
-
-💻 Deployment Management – Oversaw POS terminal software updates, ensuring smooth rollouts and rapid issue resolution post-deployment.
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
